@@ -1,5 +1,12 @@
 # Hora-de-Codar
-Atividade de logica de programação e Javascript, propostas pelo professor Gabriel Augusto do curso PROPROFISSÃO, do Instituto Proa
+Atividades de logica de programação e Javascript, propostas pelo professor Gabriel Augusto do curso PROPROFISSÃO, do Instituto Proa
+
+<div align=center>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div>
+
 ## Atividades:
 1 - Escreva um programa em Javascript e crie uma variável chamada "nomeDoCarro" e atribua-a um valor "Fusca"
 
